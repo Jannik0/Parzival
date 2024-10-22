@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Parzival",
   "resources": {
-    "hash": "sha256-TZJZAHqkDBQoGNJ5zMssEwFtPYVaFpwaD1JicsYJrPE=",
+    "hash": "sha256-o9IpRxJxoCCPM8L/kPmpA+VjyJINhNrY6dEj11vyIcw=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.bxmwzfekbv.js": "sha256-8Dn/fgHsktmKwXxkX9wl6ST3zWZdvBduzocoyQiM7cI="
     },
@@ -41,7 +41,7 @@
       "Microsoft.JSInterop.wasm": "sha256-D9FVMuWY/wKe6uXaVFq1E8RR+1GS1RSdLByXogEk+nM=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-f7gcgRUY1DOJ9lCg5QmZJuH6UXfWbWjesONy3uIKIK0=",
       "netstandard.wasm": "sha256-/k0AwarBjW44Ugi4LIdrX05+Nhtz3dMJo6DuiHwDnlo=",
-      "Parzival.wasm": "sha256-BxaRADM0QT3slVpdYtDs/ycAC8kvihmAnOR0T1TnXaE=",
+      "Parzival.wasm": "sha256-exzrqe+qfHPBnCFM5OxREX0Xco9P57o0qdCi1kKqyKc=",
       "SQLitePCLRaw.batteries_v2.wasm": "sha256-AymqXfJmredfnqn6PxQs3nqqNoMXiBDEqaT3b0605F8=",
       "SQLitePCLRaw.core.wasm": "sha256-5ncp/PNVntosOHmUwpvRVJZvvreYP08nlkqD9XgBkdA=",
       "SQLitePCLRaw.provider.e_sqlite3.wasm": "sha256-3TKRNpWG681LxI/l31HI8LuIjsCjG6XJ9dIEXu3m1zY=",
